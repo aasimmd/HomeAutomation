@@ -1,4 +1,4 @@
-# HomeAutomation
+# Home Automation
 
 >Blynk controlled NodeMCU with relay switches
 
